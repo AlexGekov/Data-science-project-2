@@ -12,7 +12,8 @@ The primary objective is to investigate how factors like **GDP per capita** and 
 ## 📊 Data Sources
 This analysis relies on combining and cross-validating data from two independent, highly reputable sources:
 1. **World Health Organization (WHO):** Life Expectancy and Adult Mortality data across various nations. ([Source Link](https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who))
-2. **The World Bank:** Global Economic (GDP per capita) and Environmental (PM2.5 exposure) indicators. ([Source Links](https://data.worldbank.org/indicator/NY.GDP.PCAP.CD)(https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3))
+2. **The World Bank:** Global Economic (GDP per capita) and Environmental (PM2.5 exposure) indicators. 
+(Source Links:(https://data.worldbank.org/indicator/NY.GDP.PCAP.CD), (https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3))
 
 ## ⚙️ Methodology
 This project follows a structured data science lifecycle:
