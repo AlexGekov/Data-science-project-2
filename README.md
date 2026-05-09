@@ -38,3 +38,10 @@ This project follows a structured data science lifecycle:
 * **Economic Impact:** A strong positive/logarithmic correlation was observed between GDP per capita and life expectancy.
 * **Environmental Impact:** An independent T-test confirmed that PM2.5 pollution has a statistically significant negative impact on average lifespans.
 * **Model Performance:** The Random Forest Regressor vastly outperformed the baseline Linear model, yielding an $R^2$ of **0.9595** and an MAE of **1.26 years**, highlighting the non-linear nature of global health metrics.
+
+## How to Run
+1. Clone the repository.
+2. Install dependencies:
+```bash
+pip install -r requirements.txt
+
