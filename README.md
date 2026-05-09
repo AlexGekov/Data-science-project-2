@@ -32,6 +32,7 @@ This project follows a structured data science lifecycle:
 ├── analysis.ipynb                # Main Jupyter Notebook with code, math, and text
 ├── .gitignore                    # Ignored files and cache directories
 └── README.md                     # Project documentation
+```
 
 ## 📈 Key Findings
 * **Economic Impact:** A strong positive/logarithmic correlation was observed between GDP per capita and life expectancy.
