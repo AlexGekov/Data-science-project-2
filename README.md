@@ -27,8 +27,7 @@ This project follows a structured data science lifecycle:
 ## 📁 Repository Structure
 ```text
 ├── data/
-│   ├── raw/                      # Original, immutable datasets (CSV)
-│   └── processed/                # Cleaned and merged data (generated via code)
+│   └── raw/                      # Original, immutable datasets (CSV)
 ├── analysis.ipynb                # Main Jupyter Notebook with code, math, and text
 ├── .gitignore                    # Ignored files and cache directories
 └── README.md                     # Project documentation
